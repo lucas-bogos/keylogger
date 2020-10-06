@@ -1,0 +1,152 @@
+Key.enterKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shift s 
+ b  o  g  s  o Key.ctrl_l \x1a  \x1a Key.ctrl_l \x1a Key.ctrl_l \x1a  l  u  c  a  s Key.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.shiftKey.deleteKey.delete s  s  m  a  r  t  h  i  l  u  c  m  a  r  t  h  i  l  u  c  a  a  s  f  f  d  g  e  f  l  d  s  f  f  d  g  e  f  l  d  h  h  f  o 
+ s  d  s  j  d  o  f  o 
+ s  d  s  j  d  o 
+
+ d  s  o  g  o  s  h  d 
+ d  s  o  g  o  s  h  d 
+ p  p  i  p 
+ i  n  s  t  a  l  i  p 
+ i  n  s  t  a  l  l  l  e  r Key.enter p  y  i  n  s  t  e  r Key.enter p  y  i  n  s  t  a  a  l  l  e  r Key.downKey.downKey.enter<96><96> l  l  e  r Key.downKey.downKey.enter<96><96><96><96>Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.right
+Key.cmdKey.right p  y  i  n  s Key.right
+Key.cmdKey.right p  y  i  n  s  t  t  a  l  l  e  r 
+ -  -  v  a  l  l  e  r 
+ -  -  v  e  e  r  s  i  o  n Key.enter p  y Key.cmd r  s  i  o  n Key.enter p  y Key.cmdKey.leftKey.left i  n  s  t  a  l  l  e  r  i  n  s  t  a  l  l  e  r 
+
+ -  -  o  n  e  f  i  l  e  -  -  o  n  e  f  i  l  e 
+
+ -  -  n  o  c  o  n  s  o  -  -  n  o  c  o  n  s  o  l  l  e 
+ k  e  y  l  l  o  g  e 
+ k  e  y  l  l  o  g  e  e  r Key.tabKey.tabKey.tabKey.tabKey.tabKey.tabKey.tab .  r Key.tabKey.tabKey.tabKey.tabKey.tabKey.tabKey.tab .  p  p  y Key.tabKey.tabKey.tabKey.tabKey.tabKey.tabKey.tab
+ y Key.tabKey.tabKey.tabKey.tabKey.tabKey.tabKey.tab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ o  l  e 
+ . 
+
+
+
+ o  l  e 
+ .  \\  \\  k  e  y Key.tabKey.enter f  a  l  h  k  e  y Key.tabKey.enter f  a  l  h  a  a 
+ n  a 
+ e  x  e  c  u 
+ n  a 
+ e  x  e  c  u  ç  ç  a  o 
+ d  o 
+ s  c  r  a  o 
+ d  o 
+ s  c  r  i  i  p  t 
+ p  y  t  h  o  n  p  t 
+ p  y  t  h  o  n Key.enterKey.enter = 
+
+
+
+
+
+
+
+ = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ n  a 
+ o 
+ h  o  r  a  n  a 
+ o 
+ h  o  r  a 
+
+ d  e 
+ r  o  d  a  r 
+ d  e 
+ r  o  d  a  r 
+ o  o 
+ e  x  e 
+
+
+
+
+
+ e  x  e 
+
+
+
+
+ .  .  e  x  e 
+ p  y  t  h  o  e  x  e 
+ p  y  t  h  o  n  n Key.enterKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.enterKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l \x03 Key.enterKey.enterKey.upKey.enterKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l \x03 Key.enterKey.enterKey.upKey.enterKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l \x16 
+
+
+Key.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_lKey.ctrl_l \x16 
+
+
+Key.end
